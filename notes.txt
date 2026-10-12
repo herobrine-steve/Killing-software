@@ -1,3 +1,0 @@
-TODO:
-- Optimize villager targeting.
-- The old "nether-core-legacy" project has some leftover artifacts in the logs. Need to scrub that repository completely before anyone starts digging.
